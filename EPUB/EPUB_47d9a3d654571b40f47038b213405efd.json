@@ -1,0 +1,46 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thuat-xu-the_19901.html#gsc.tab=0",
+    "title" : "Thuật Xử Thế",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hòa Nhân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 8094,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/EPUB/EPUB_47d9a3d654571b40f47038b213405efd.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/IMAGE/IMAGE_47d9a3d654571b40f47038b213405efd.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tu-thu-lanh-dao-thuat-xu-the-hoa-nhan/T%E1%BB%A9%20Th%C6%B0%20L%C3%A3nh%20%C4%90%E1%BA%A1o%20-%20Thu%E1%BA%ADt%20X%E1%BB%AD%20Th%E1%BA%BF%20-%20H%C3%B2a%20Nh%C3%A2n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8094,
+    "title" : "Tứ Thư Lãnh Đạo - Thuật Xử Thế - Hòa Nhân"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tu-thu-lanh-dao-thuat-xu-the-hoa-nhan/T%E1%BB%A9%20Th%C6%B0%20L%C3%A3nh%20%C4%90%E1%BA%A1o%20-%20Thu%E1%BA%ADt%20X%E1%BB%AD%20Th%E1%BA%BF%20-%20H%C3%B2a%20Nh%C3%A2n.mp3",
+    "title" : "Tứ Thư Lãnh Đạo - Thuật Xử Thế - Hòa Nhân",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
