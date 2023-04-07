@@ -1,0 +1,116 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/danh-thuc-ban-mai_19677.html",
+    "title" : "Đánh Thức Ban Mai",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Thị Việt Hà",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 16295,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/EPUB/EPUB_a1e8f7739afa01383177f42319cc0178.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/IMAGE/IMAGE_a1e8f7739afa01383177f42319cc0178.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thien-su/C%C3%A2y%20t%C3%A1o%20v%E1%BA%ABn%20n%E1%BB%9F%20hoa.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1514,
+    "title" : "Cây táo vẫn nở hoa"
+  }, {
+    "href" : "https://archive.org/download/thien-su/L%E1%BB%9CI%20GI%E1%BB%9AI%20THI%E1%BB%86U%20%2C%20T%E1%BB%B1%20k%E1%BB%B7%20l%C3%A0%20m%E1%BB%99t%20d%E1%BA%A1ng%20r%E1%BB%91i%20lo%E1%BA%A1n%20th%E1%BA%A7n%20kinh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2595,
+    "title" : "LỜI GIỚI THIỆU , Tự kỷ là một dạng rối loạn thần kinh"
+  }, {
+    "href" : "https://archive.org/download/thien-su/Ng%C3%A0y%20cu%E1%BA%A3%20con.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1757,
+    "title" : "Ngày cuả con"
+  }, {
+    "href" : "https://archive.org/download/thien-su/PH%E1%BA%A6N%202%20B%C3%ACnh%20minh%20ph%C3%ADa%20tr%C6%B0%E1%BB%9Bc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1945,
+    "title" : "PHẦN 2 Bình minh phía trước"
+  }, {
+    "href" : "https://archive.org/download/thien-su/PH%E1%BA%A6N%203%20Nh%C3%ACn%20t%E1%BB%AB%20m%E1%BB%99t%20ph%C3%ADa%20kh%C3%A1c.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1794,
+    "title" : "PHẦN 3 Nhìn từ một phía khác"
+  }, {
+    "href" : "https://archive.org/download/thien-su/Thi%C3%AAn%20S%E1%BB%A9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2698,
+    "title" : "Thiên Sứ"
+  }, {
+    "href" : "https://archive.org/download/thien-su/T%E1%BB%B1%20can%20thi%E1%BB%87p%20nh%C6%B0%20th%E1%BA%BF%20n%C3%A0o.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1809,
+    "title" : "Tự can thiệp như thế nào"
+  }, {
+    "href" : "https://archive.org/download/thien-su/%C4%90%C3%A1nh%20th%E1%BB%A9c%20ban%20mai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2183,
+    "title" : "Đánh thức ban mai"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thien-su/C%C3%A2y%20t%C3%A1o%20v%E1%BA%ABn%20n%E1%BB%9F%20hoa.mp3",
+    "title" : "Cây táo vẫn nở hoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su/L%E1%BB%9CI%20GI%E1%BB%9AI%20THI%E1%BB%86U%20%2C%20T%E1%BB%B1%20k%E1%BB%B7%20l%C3%A0%20m%E1%BB%99t%20d%E1%BA%A1ng%20r%E1%BB%91i%20lo%E1%BA%A1n%20th%E1%BA%A7n%20kinh.mp3",
+    "title" : "LỜI GIỚI THIỆU , Tự kỷ là một dạng rối loạn thần kinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su/Ng%C3%A0y%20cu%E1%BA%A3%20con.mp3",
+    "title" : "Ngày cuả con",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su/PH%E1%BA%A6N%202%20B%C3%ACnh%20minh%20ph%C3%ADa%20tr%C6%B0%E1%BB%9Bc.mp3",
+    "title" : "PHẦN 2 Bình minh phía trước",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su/PH%E1%BA%A6N%203%20Nh%C3%ACn%20t%E1%BB%AB%20m%E1%BB%99t%20ph%C3%ADa%20kh%C3%A1c.mp3",
+    "title" : "PHẦN 3 Nhìn từ một phía khác",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su/Thi%C3%AAn%20S%E1%BB%A9.mp3",
+    "title" : "Thiên Sứ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su/T%E1%BB%B1%20can%20thi%E1%BB%87p%20nh%C6%B0%20th%E1%BA%BF%20n%C3%A0o.mp3",
+    "title" : "Tự can thiệp như thế nào",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su/%C4%90%C3%A1nh%20th%E1%BB%A9c%20ban%20mai.mp3",
+    "title" : "Đánh thức ban mai",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

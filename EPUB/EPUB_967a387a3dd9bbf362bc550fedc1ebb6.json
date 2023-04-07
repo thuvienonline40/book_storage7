@@ -1,0 +1,86 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ai-lam-duoc_19341.html",
+    "title" : "Ai Làm Được",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồ Biểu Chánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 17515,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/EPUB/EPUB_967a387a3dd9bbf362bc550fedc1ebb6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/IMAGE/IMAGE_967a387a3dd9bbf362bc550fedc1ebb6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ai-lam-1/ai-lam-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "ai-lam-1"
+  }, {
+    "href" : "https://archive.org/download/ai-lam-1/ai-lam-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "ai-lam-2"
+  }, {
+    "href" : "https://archive.org/download/ai-lam-1/ai-lam-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "ai-lam-3"
+  }, {
+    "href" : "https://archive.org/download/ai-lam-1/ai-lam-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "ai-lam-4"
+  }, {
+    "href" : "https://archive.org/download/ai-lam-1/ai-lam-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3115,
+    "title" : "ai-lam-5"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ai-lam-1/ai-lam-1.mp3",
+    "title" : "ai-lam-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-lam-1/ai-lam-2.mp3",
+    "title" : "ai-lam-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-lam-1/ai-lam-3.mp3",
+    "title" : "ai-lam-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-lam-1/ai-lam-4.mp3",
+    "title" : "ai-lam-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-lam-1/ai-lam-5.mp3",
+    "title" : "ai-lam-5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

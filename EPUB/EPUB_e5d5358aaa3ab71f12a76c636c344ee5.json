@@ -1,0 +1,116 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ta-dao-thu-mot-lan_19793.html",
+    "title" : "Tà Đạo Thử Một Lần",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thu Trân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 17810,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/EPUB/EPUB_e5d5358aaa3ab71f12a76c636c344ee5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/IMAGE/IMAGE_e5d5358aaa3ab71f12a76c636c344ee5.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/son-phan-buon-lung-linh/C%C3%A1i%20t%E1%BB%99i%20c%C6%B0%E1%BB%9Di.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2167,
+    "title" : "Cái tội cười"
+  }, {
+    "href" : "https://archive.org/download/son-phan-buon-lung-linh/Like%20L%E1%BB%8Bch%20L%C3%A3m.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2156,
+    "title" : "Like Lịch Lãm"
+  }, {
+    "href" : "https://archive.org/download/son-phan-buon-lung-linh/Ng%C3%A0y%20n%E1%BB%AFa%20%C4%91%E1%BB%83%20y%C3%AAu%20th%C6%B0%C6%A1ng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2473,
+    "title" : "Ngày nữa để yêu thương"
+  }, {
+    "href" : "https://archive.org/download/son-phan-buon-lung-linh/Nh%E1%BB%AFng%20ng%C3%A0y%20nh%E1%BA%A3m%20nh%C3%AD.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2190,
+    "title" : "Những ngày nhảm nhí"
+  }, {
+    "href" : "https://archive.org/download/son-phan-buon-lung-linh/Son%20ph%E1%BA%A5n%20bu%E1%BB%93n%20lung%20linh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2589,
+    "title" : "Son phấn buồn lung linh"
+  }, {
+    "href" : "https://archive.org/download/son-phan-buon-lung-linh/Vai%20nghi%C3%AAng%20l%C3%A0m%20m%E1%BB%99ng%20m%C3%ACnh%20h%C6%B0%20%E1%BA%A3o.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2180,
+    "title" : "Vai nghiêng làm mộng mình hư ảo"
+  }, {
+    "href" : "https://archive.org/download/son-phan-buon-lung-linh/Y%C3%AAu%20cho%20bi%E1%BA%BFt%20%C4%91%C3%AAm%20d%C3%A0i.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1919,
+    "title" : "Yêu cho biết đêm dài"
+  }, {
+    "href" : "https://archive.org/download/son-phan-buon-lung-linh/%C4%90%E1%BB%A9ng%20Khoanh%20Tay.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2136,
+    "title" : "Đứng Khoanh Tay"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/son-phan-buon-lung-linh/C%C3%A1i%20t%E1%BB%99i%20c%C6%B0%E1%BB%9Di.mp3",
+    "title" : "Cái tội cười",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/son-phan-buon-lung-linh/Like%20L%E1%BB%8Bch%20L%C3%A3m.mp3",
+    "title" : "Like Lịch Lãm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/son-phan-buon-lung-linh/Ng%C3%A0y%20n%E1%BB%AFa%20%C4%91%E1%BB%83%20y%C3%AAu%20th%C6%B0%C6%A1ng.mp3",
+    "title" : "Ngày nữa để yêu thương",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/son-phan-buon-lung-linh/Nh%E1%BB%AFng%20ng%C3%A0y%20nh%E1%BA%A3m%20nh%C3%AD.mp3",
+    "title" : "Những ngày nhảm nhí",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/son-phan-buon-lung-linh/Son%20ph%E1%BA%A5n%20bu%E1%BB%93n%20lung%20linh.mp3",
+    "title" : "Son phấn buồn lung linh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/son-phan-buon-lung-linh/Vai%20nghi%C3%AAng%20l%C3%A0m%20m%E1%BB%99ng%20m%C3%ACnh%20h%C6%B0%20%E1%BA%A3o.mp3",
+    "title" : "Vai nghiêng làm mộng mình hư ảo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/son-phan-buon-lung-linh/Y%C3%AAu%20cho%20bi%E1%BA%BFt%20%C4%91%C3%AAm%20d%C3%A0i.mp3",
+    "title" : "Yêu cho biết đêm dài",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/son-phan-buon-lung-linh/%C4%90%E1%BB%A9ng%20Khoanh%20Tay.mp3",
+    "title" : "Đứng Khoanh Tay",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

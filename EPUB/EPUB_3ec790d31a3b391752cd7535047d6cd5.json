@@ -1,0 +1,86 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tieu-su-steve-jobs_19631.html",
+    "title" : "Tiểu Sử Steve Jobs",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Walter Isaacson",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 16707,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/EPUB/EPUB_3ec790d31a3b391752cd7535047d6cd5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/IMAGE/IMAGE_3ec790d31a3b391752cd7535047d6cd5.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cuoc-doi-1/cuoc-doi-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "cuoc-doi-1"
+  }, {
+    "href" : "https://archive.org/download/cuoc-doi-1/cuoc-doi-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "cuoc-doi-2"
+  }, {
+    "href" : "https://archive.org/download/cuoc-doi-1/cuoc-doi-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "cuoc-doi-3"
+  }, {
+    "href" : "https://archive.org/download/cuoc-doi-1/cuoc-doi-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "cuoc-doi-4"
+  }, {
+    "href" : "https://archive.org/download/cuoc-doi-1/cuoc-doi-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2307,
+    "title" : "cuoc-doi-5"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cuoc-doi-1/cuoc-doi-1.mp3",
+    "title" : "cuoc-doi-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-doi-1/cuoc-doi-2.mp3",
+    "title" : "cuoc-doi-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-doi-1/cuoc-doi-3.mp3",
+    "title" : "cuoc-doi-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-doi-1/cuoc-doi-4.mp3",
+    "title" : "cuoc-doi-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-doi-1/cuoc-doi-5.mp3",
+    "title" : "cuoc-doi-5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,146 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tri-tue-dan-toc-phap_19400.html",
+    "title" : "Trí Tuệ Dân Tộc Pháp",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Gia Khang",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 22921,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/EPUB/EPUB_adffeba339c3b4ff4fd7fe2aaadc771e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/IMAGE/IMAGE_adffeba339c3b4ff4fd7fe2aaadc771e.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tri-tue-dan-toc-phap.sna/00.GioiThieu_TriTueDanTocPhap.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 118,
+    "title" : "00.GioiThieu TriTueDanTocPhap"
+  }, {
+    "href" : "https://archive.org/download/tri-tue-dan-toc-phap.sna/01.C01_HC_BieuTuongCuaNuocPhap_TriTueDanTocPhap.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3059,
+    "title" : "01.C01 HC BieuTuongCuaNuocPhap TriTueDanTocPhap"
+  }, {
+    "href" : "https://archive.org/download/tri-tue-dan-toc-phap.sna/02.C02A_TinhThanKieuPhap_TriTueDanTocPhap.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1991,
+    "title" : "02.C02A TinhThanKieuPhap TriTueDanTocPhap"
+  }, {
+    "href" : "https://archive.org/download/tri-tue-dan-toc-phap.sna/03.C02B_TinhThanKieuPhap_TriTueDanTocPhap.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1872,
+    "title" : "03.C02B TinhThanKieuPhap TriTueDanTocPhap"
+  }, {
+    "href" : "https://archive.org/download/tri-tue-dan-toc-phap.sna/04.C03A_ChinhTriKieuPhap_TriTueDanTocPhap.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2235,
+    "title" : "04.C03A ChinhTriKieuPhap TriTueDanTocPhap"
+  }, {
+    "href" : "https://archive.org/download/tri-tue-dan-toc-phap.sna/05.C03B_ChinhTriKieuPhap_TriTueDanTocPhap.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2097,
+    "title" : "05.C03B ChinhTriKieuPhap TriTueDanTocPhap"
+  }, {
+    "href" : "https://archive.org/download/tri-tue-dan-toc-phap.sna/06.C04_TinhAiKieuPhap_TriTueDanTocPhap.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2018,
+    "title" : "06.C04 TinhAiKieuPhap TriTueDanTocPhap"
+  }, {
+    "href" : "https://archive.org/download/tri-tue-dan-toc-phap.sna/07.C05_HamMuonKieuPhap_TriTueDanTocPhap.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3114,
+    "title" : "07.C05 HamMuonKieuPhap TriTueDanTocPhap"
+  }, {
+    "href" : "https://archive.org/download/tri-tue-dan-toc-phap.sna/08.C06_NgonNguKieuPhap_TriTueDanTocPhap.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1776,
+    "title" : "08.C06 NgonNguKieuPhap TriTueDanTocPhap"
+  }, {
+    "href" : "https://archive.org/download/tri-tue-dan-toc-phap.sna/09.C07A_VanNgheKieuPhap_TriTueDanTocPhap.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1955,
+    "title" : "09.C07A VanNgheKieuPhap TriTueDanTocPhap"
+  }, {
+    "href" : "https://archive.org/download/tri-tue-dan-toc-phap.sna/10.C07B_Het_VanNgheKieuPhap_TriTueDanTocPhap.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2686,
+    "title" : "10.C07B Het VanNgheKieuPhap TriTueDanTocPhap"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tri-tue-dan-toc-phap.sna/00.GioiThieu_TriTueDanTocPhap.mp3",
+    "title" : "00.GioiThieu TriTueDanTocPhap",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tri-tue-dan-toc-phap.sna/01.C01_HC_BieuTuongCuaNuocPhap_TriTueDanTocPhap.mp3",
+    "title" : "01.C01 HC BieuTuongCuaNuocPhap TriTueDanTocPhap",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tri-tue-dan-toc-phap.sna/02.C02A_TinhThanKieuPhap_TriTueDanTocPhap.mp3",
+    "title" : "02.C02A TinhThanKieuPhap TriTueDanTocPhap",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tri-tue-dan-toc-phap.sna/03.C02B_TinhThanKieuPhap_TriTueDanTocPhap.mp3",
+    "title" : "03.C02B TinhThanKieuPhap TriTueDanTocPhap",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tri-tue-dan-toc-phap.sna/04.C03A_ChinhTriKieuPhap_TriTueDanTocPhap.mp3",
+    "title" : "04.C03A ChinhTriKieuPhap TriTueDanTocPhap",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tri-tue-dan-toc-phap.sna/05.C03B_ChinhTriKieuPhap_TriTueDanTocPhap.mp3",
+    "title" : "05.C03B ChinhTriKieuPhap TriTueDanTocPhap",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tri-tue-dan-toc-phap.sna/06.C04_TinhAiKieuPhap_TriTueDanTocPhap.mp3",
+    "title" : "06.C04 TinhAiKieuPhap TriTueDanTocPhap",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tri-tue-dan-toc-phap.sna/07.C05_HamMuonKieuPhap_TriTueDanTocPhap.mp3",
+    "title" : "07.C05 HamMuonKieuPhap TriTueDanTocPhap",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tri-tue-dan-toc-phap.sna/08.C06_NgonNguKieuPhap_TriTueDanTocPhap.mp3",
+    "title" : "08.C06 NgonNguKieuPhap TriTueDanTocPhap",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tri-tue-dan-toc-phap.sna/09.C07A_VanNgheKieuPhap_TriTueDanTocPhap.mp3",
+    "title" : "09.C07A VanNgheKieuPhap TriTueDanTocPhap",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tri-tue-dan-toc-phap.sna/10.C07B_Het_VanNgheKieuPhap_TriTueDanTocPhap.mp3",
+    "title" : "10.C07B Het VanNgheKieuPhap TriTueDanTocPhap",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,166 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thanh-cong-khong-con-la-bi-mat_19609.html",
+    "title" : "Thành Công Không Còn Là Bí Mật",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Noah St. John",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 23767,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/EPUB/EPUB_f67c2bd5f24b09e7f29b9477f28e39a6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/IMAGE/IMAGE_f67c2bd5f24b09e7f29b9477f28e39a6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thanh-cong-khong-con-la-bi-mat.sna/01.TCKCLBM_C01_CoDieuGiDoKhongOn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1858,
+    "title" : "01.TCKCLBM C01 CoDieuGiDoKhongOn"
+  }, {
+    "href" : "https://archive.org/download/thanh-cong-khong-con-la-bi-mat.sna/02.TCKCLBM_C02_MotGiaDinhNho.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 789,
+    "title" : "02.TCKCLBM C02 MotGiaDinhNho"
+  }, {
+    "href" : "https://archive.org/download/thanh-cong-khong-con-la-bi-mat.sna/03.TCKCLBM_C03_MatMaThanhCongDuocTietLo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2053,
+    "title" : "03.TCKCLBM C03 MatMaThanhCongDuocTietLo"
+  }, {
+    "href" : "https://archive.org/download/thanh-cong-khong-con-la-bi-mat.sna/04.TCKCLBM_C04_Buoc1_CauHoiTraoQuyen.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2460,
+    "title" : "04.TCKCLBM C04 Buoc1 CauHoiTraoQuyen"
+  }, {
+    "href" : "https://archive.org/download/thanh-cong-khong-con-la-bi-mat.sna/05.TCKCLBM_C05_Buoc2_GuongYeuThuongVaNeoChuanMuc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3394,
+    "title" : "05.TCKCLBM C05 Buoc2 GuongYeuThuongVaNeoChuanMuc"
+  }, {
+    "href" : "https://archive.org/download/thanh-cong-khong-con-la-bi-mat.sna/06.TCKCLBM_C06_Buoc3_HeThongHoTro_Phan1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2609,
+    "title" : "06.TCKCLBM C06 Buoc3 HeThongHoTro Phan1"
+  }, {
+    "href" : "https://archive.org/download/thanh-cong-khong-con-la-bi-mat.sna/07.TCKCLBM_C06_Buoc3_HeThongHoTro_Phan2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2148,
+    "title" : "07.TCKCLBM C06 Buoc3 HeThongHoTro Phan2"
+  }, {
+    "href" : "https://archive.org/download/thanh-cong-khong-con-la-bi-mat.sna/08.TCKCLBM_C07_Buoc4_VungKhongMucTieuVaPhauThuatThayTheMucTieu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2330,
+    "title" : "08.TCKCLBM C07 Buoc4 VungKhongMucTieuVaPhauThuatThayTheMucTieu"
+  }, {
+    "href" : "https://archive.org/download/thanh-cong-khong-con-la-bi-mat.sna/09.TCKCLBM_C08_Buoc5_BanDangCoGangBaoVeTrungPhatHayLamHaiLongAi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1155,
+    "title" : "09.TCKCLBM C08 Buoc5 BanDangCoGangBaoVeTrungPhatHayLamHaiLongAi"
+  }, {
+    "href" : "https://archive.org/download/thanh-cong-khong-con-la-bi-mat.sna/10.TCKCLBM_C09_Buoc6_DiTimCauTraLoiKhongCuaBan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2134,
+    "title" : "10.TCKCLBM C09 Buoc6 DiTimCauTraLoiKhongCuaBan"
+  }, {
+    "href" : "https://archive.org/download/thanh-cong-khong-con-la-bi-mat.sna/11.TCKCLBM_C10_Buoc7_DiTimNguyenNhanCuaBan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1643,
+    "title" : "11.TCKCLBM C10 Buoc7 DiTimNguyenNhanCuaBan"
+  }, {
+    "href" : "https://archive.org/download/thanh-cong-khong-con-la-bi-mat.sna/12.TCKCLBM_C11%28Het%29_TiepTheoLaGi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 597,
+    "title" : "12.TCKCLBM C11(Het) TiepTheoLaGi"
+  }, {
+    "href" : "https://archive.org/download/thanh-cong-khong-con-la-bi-mat.sna/12.TCKCLBM_C11Het_TiepTheoLaGi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 597,
+    "title" : "12.TCKCLBM C11Het TiepTheoLaGi"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thanh-cong-khong-con-la-bi-mat.sna/01.TCKCLBM_C01_CoDieuGiDoKhongOn.mp3",
+    "title" : "01.TCKCLBM C01 CoDieuGiDoKhongOn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-cong-khong-con-la-bi-mat.sna/02.TCKCLBM_C02_MotGiaDinhNho.mp3",
+    "title" : "02.TCKCLBM C02 MotGiaDinhNho",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-cong-khong-con-la-bi-mat.sna/03.TCKCLBM_C03_MatMaThanhCongDuocTietLo.mp3",
+    "title" : "03.TCKCLBM C03 MatMaThanhCongDuocTietLo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-cong-khong-con-la-bi-mat.sna/04.TCKCLBM_C04_Buoc1_CauHoiTraoQuyen.mp3",
+    "title" : "04.TCKCLBM C04 Buoc1 CauHoiTraoQuyen",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-cong-khong-con-la-bi-mat.sna/05.TCKCLBM_C05_Buoc2_GuongYeuThuongVaNeoChuanMuc.mp3",
+    "title" : "05.TCKCLBM C05 Buoc2 GuongYeuThuongVaNeoChuanMuc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-cong-khong-con-la-bi-mat.sna/06.TCKCLBM_C06_Buoc3_HeThongHoTro_Phan1.mp3",
+    "title" : "06.TCKCLBM C06 Buoc3 HeThongHoTro Phan1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-cong-khong-con-la-bi-mat.sna/07.TCKCLBM_C06_Buoc3_HeThongHoTro_Phan2.mp3",
+    "title" : "07.TCKCLBM C06 Buoc3 HeThongHoTro Phan2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-cong-khong-con-la-bi-mat.sna/08.TCKCLBM_C07_Buoc4_VungKhongMucTieuVaPhauThuatThayTheMucTieu.mp3",
+    "title" : "08.TCKCLBM C07 Buoc4 VungKhongMucTieuVaPhauThuatThayTheMucTieu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-cong-khong-con-la-bi-mat.sna/09.TCKCLBM_C08_Buoc5_BanDangCoGangBaoVeTrungPhatHayLamHaiLongAi.mp3",
+    "title" : "09.TCKCLBM C08 Buoc5 BanDangCoGangBaoVeTrungPhatHayLamHaiLongAi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-cong-khong-con-la-bi-mat.sna/10.TCKCLBM_C09_Buoc6_DiTimCauTraLoiKhongCuaBan.mp3",
+    "title" : "10.TCKCLBM C09 Buoc6 DiTimCauTraLoiKhongCuaBan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-cong-khong-con-la-bi-mat.sna/11.TCKCLBM_C10_Buoc7_DiTimNguyenNhanCuaBan.mp3",
+    "title" : "11.TCKCLBM C10 Buoc7 DiTimNguyenNhanCuaBan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-cong-khong-con-la-bi-mat.sna/12.TCKCLBM_C11%28Het%29_TiepTheoLaGi.mp3",
+    "title" : "12.TCKCLBM C11(Het) TiepTheoLaGi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-cong-khong-con-la-bi-mat.sna/12.TCKCLBM_C11Het_TiepTheoLaGi.mp3",
+    "title" : "12.TCKCLBM C11Het TiepTheoLaGi",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

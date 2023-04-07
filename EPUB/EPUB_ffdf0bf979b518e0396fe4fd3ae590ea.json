@@ -1,0 +1,116 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/khuc-hat-trai-tim-ga_19816.html",
+    "title" : "Khúc Hát Trái Tim Gà",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Kim Trắc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 19521,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/EPUB/EPUB_ffdf0bf979b518e0396fe4fd3ae590ea.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/IMAGE/IMAGE_ffdf0bf979b518e0396fe4fd3ae590ea.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/khuc-hat-trai-tim-ga.sna/KHUC_HAT_TRAI_TIM_GA_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2563,
+    "title" : "KHUC HAT TRAI TIM GA 01"
+  }, {
+    "href" : "https://archive.org/download/khuc-hat-trai-tim-ga.sna/KHUC_HAT_TRAI_TIM_GA_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2614,
+    "title" : "KHUC HAT TRAI TIM GA 02"
+  }, {
+    "href" : "https://archive.org/download/khuc-hat-trai-tim-ga.sna/KHUC_HAT_TRAI_TIM_GA_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2457,
+    "title" : "KHUC HAT TRAI TIM GA 03"
+  }, {
+    "href" : "https://archive.org/download/khuc-hat-trai-tim-ga.sna/KHUC_HAT_TRAI_TIM_GA_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2426,
+    "title" : "KHUC HAT TRAI TIM GA 04"
+  }, {
+    "href" : "https://archive.org/download/khuc-hat-trai-tim-ga.sna/KHUC_HAT_TRAI_TIM_GA_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2507,
+    "title" : "KHUC HAT TRAI TIM GA 05"
+  }, {
+    "href" : "https://archive.org/download/khuc-hat-trai-tim-ga.sna/KHUC_HAT_TRAI_TIM_GA_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2350,
+    "title" : "KHUC HAT TRAI TIM GA 06"
+  }, {
+    "href" : "https://archive.org/download/khuc-hat-trai-tim-ga.sna/KHUC_HAT_TRAI_TIM_GA_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1883,
+    "title" : "KHUC HAT TRAI TIM GA 07"
+  }, {
+    "href" : "https://archive.org/download/khuc-hat-trai-tim-ga.sna/KHUC_HAT_TRAI_TIM_GA_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2721,
+    "title" : "KHUC HAT TRAI TIM GA 08"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/khuc-hat-trai-tim-ga.sna/KHUC_HAT_TRAI_TIM_GA_01.mp3",
+    "title" : "KHUC HAT TRAI TIM GA 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khuc-hat-trai-tim-ga.sna/KHUC_HAT_TRAI_TIM_GA_02.mp3",
+    "title" : "KHUC HAT TRAI TIM GA 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khuc-hat-trai-tim-ga.sna/KHUC_HAT_TRAI_TIM_GA_03.mp3",
+    "title" : "KHUC HAT TRAI TIM GA 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khuc-hat-trai-tim-ga.sna/KHUC_HAT_TRAI_TIM_GA_04.mp3",
+    "title" : "KHUC HAT TRAI TIM GA 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khuc-hat-trai-tim-ga.sna/KHUC_HAT_TRAI_TIM_GA_05.mp3",
+    "title" : "KHUC HAT TRAI TIM GA 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khuc-hat-trai-tim-ga.sna/KHUC_HAT_TRAI_TIM_GA_06.mp3",
+    "title" : "KHUC HAT TRAI TIM GA 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khuc-hat-trai-tim-ga.sna/KHUC_HAT_TRAI_TIM_GA_07.mp3",
+    "title" : "KHUC HAT TRAI TIM GA 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khuc-hat-trai-tim-ga.sna/KHUC_HAT_TRAI_TIM_GA_08.mp3",
+    "title" : "KHUC HAT TRAI TIM GA 08",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

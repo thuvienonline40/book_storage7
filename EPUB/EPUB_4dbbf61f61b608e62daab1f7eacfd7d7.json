@@ -1,0 +1,96 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dung-de-tien-lam-roi-doi-ta_19880.html",
+    "title" : "Đừng Để Tiền Làm Rối Đời Ta",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Xuân Nguyễn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 18221,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/EPUB/EPUB_4dbbf61f61b608e62daab1f7eacfd7d7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/IMAGE/IMAGE_4dbbf61f61b608e62daab1f7eacfd7d7.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dung-de-tien-lam-roi-doi-ta.sna/01_P01_DungDeTienLamRoiDoiTa.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2582,
+    "title" : "01 P01 DungDeTienLamRoiDoiTa"
+  }, {
+    "href" : "https://archive.org/download/dung-de-tien-lam-roi-doi-ta.sna/02_P02_DungDeTienLamRoiDoiTa.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3024,
+    "title" : "02 P02 DungDeTienLamRoiDoiTa"
+  }, {
+    "href" : "https://archive.org/download/dung-de-tien-lam-roi-doi-ta.sna/03_P03_DungDeTienLamRoiDoiTa.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3043,
+    "title" : "03 P03 DungDeTienLamRoiDoiTa"
+  }, {
+    "href" : "https://archive.org/download/dung-de-tien-lam-roi-doi-ta.sna/04_P04_DungDeTienLamRoiDoiTa.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3360,
+    "title" : "04 P04 DungDeTienLamRoiDoiTa"
+  }, {
+    "href" : "https://archive.org/download/dung-de-tien-lam-roi-doi-ta.sna/05_P05_DungDeTienLamRoiDoiTa.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3270,
+    "title" : "05 P05 DungDeTienLamRoiDoiTa"
+  }, {
+    "href" : "https://archive.org/download/dung-de-tien-lam-roi-doi-ta.sna/06_P06_HET_DungDeTienLamRoiDoiTa.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2942,
+    "title" : "06 P06 HET DungDeTienLamRoiDoiTa"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dung-de-tien-lam-roi-doi-ta.sna/01_P01_DungDeTienLamRoiDoiTa.mp3",
+    "title" : "01 P01 DungDeTienLamRoiDoiTa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-de-tien-lam-roi-doi-ta.sna/02_P02_DungDeTienLamRoiDoiTa.mp3",
+    "title" : "02 P02 DungDeTienLamRoiDoiTa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-de-tien-lam-roi-doi-ta.sna/03_P03_DungDeTienLamRoiDoiTa.mp3",
+    "title" : "03 P03 DungDeTienLamRoiDoiTa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-de-tien-lam-roi-doi-ta.sna/04_P04_DungDeTienLamRoiDoiTa.mp3",
+    "title" : "04 P04 DungDeTienLamRoiDoiTa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-de-tien-lam-roi-doi-ta.sna/05_P05_DungDeTienLamRoiDoiTa.mp3",
+    "title" : "05 P05 DungDeTienLamRoiDoiTa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-de-tien-lam-roi-doi-ta.sna/06_P06_HET_DungDeTienLamRoiDoiTa.mp3",
+    "title" : "06 P06 HET DungDeTienLamRoiDoiTa",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

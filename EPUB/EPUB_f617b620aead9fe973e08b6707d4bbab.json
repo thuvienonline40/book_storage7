@@ -1,0 +1,306 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bau-vat-cua-doi_19366.html",
+    "title" : "Báu Vật của Đời",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Mạc Ngôn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 124943,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/EPUB/EPUB_f617b620aead9fe973e08b6707d4bbab.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/IMAGE/IMAGE_f617b620aead9fe973e08b6707d4bbab.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4536,
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 01]"
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%2010.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4340,
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 18]"
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%2011.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4333,
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 19]"
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%2012.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4333,
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 20]"
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%2013.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4536,
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 03]"
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%2014.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4333,
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 21]"
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%2015.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4333,
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 22]"
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%2016.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4333,
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 23]"
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%2017.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4326,
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 24]"
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%2018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4326,
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 25]"
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%2019.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4326,
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 26]"
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4536,
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 02]"
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%2020.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4900,
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 27]"
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%2021.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4536,
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 04]"
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%2022.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4522,
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 05]"
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%2023.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5180,
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 06]"
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%2024.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5187,
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 07]"
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%2025.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5187,
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 08]"
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%2026.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5187,
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 09]"
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%2027.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5187,
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 10]"
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%203.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4858,
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 11]"
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%204.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4872,
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 12]"
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%205.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4872,
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 13]"
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%206.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4865,
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 14]"
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%207.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4333,
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 15]"
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%208.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4333,
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 16]"
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%209.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4333,
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 17]"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%201.mp3",
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 01]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%2010.mp3",
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 18]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%2011.mp3",
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 19]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%2012.mp3",
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 20]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%2013.mp3",
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 03]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%2014.mp3",
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 21]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%2015.mp3",
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 22]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%2016.mp3",
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 23]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%2017.mp3",
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 24]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%2018.mp3",
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 25]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%2019.mp3",
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 26]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%202.mp3",
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 02]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%2020.mp3",
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 27]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%2021.mp3",
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 04]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%2022.mp3",
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 05]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%2023.mp3",
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 06]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%2024.mp3",
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 07]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%2025.mp3",
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 08]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%2026.mp3",
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 09]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%2027.mp3",
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 10]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%203.mp3",
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 11]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%204.mp3",
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 12]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%205.mp3",
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 13]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%206.mp3",
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 14]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%207.mp3",
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 15]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%208.mp3",
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 16]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/b-24_20210604_202106/b%209.mp3",
+    "title" : "Bau Vat Cua Doi - Mac Ngon [ 17]",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,106 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ke-hoach-cuoc-doi_19448.html",
+    "title" : "Kế Hoạch Cuộc Đời",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Robert Ashton",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 14869,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/EPUB/EPUB_c1383b38cb8cdae885bb72a767c01741.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/IMAGE/IMAGE_c1383b38cb8cdae885bb72a767c01741.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ke-hoach-cuoc-doi/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1706,
+    "title" : "1"
+  }, {
+    "href" : "https://archive.org/download/ke-hoach-cuoc-doi/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2525,
+    "title" : "2"
+  }, {
+    "href" : "https://archive.org/download/ke-hoach-cuoc-doi/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2067,
+    "title" : "3"
+  }, {
+    "href" : "https://archive.org/download/ke-hoach-cuoc-doi/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2367,
+    "title" : "4"
+  }, {
+    "href" : "https://archive.org/download/ke-hoach-cuoc-doi/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2000,
+    "title" : "5"
+  }, {
+    "href" : "https://archive.org/download/ke-hoach-cuoc-doi/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1998,
+    "title" : "6"
+  }, {
+    "href" : "https://archive.org/download/ke-hoach-cuoc-doi/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2206,
+    "title" : "7"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ke-hoach-cuoc-doi/1.mp3",
+    "title" : "1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-hoach-cuoc-doi/2.mp3",
+    "title" : "2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-hoach-cuoc-doi/3.mp3",
+    "title" : "3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-hoach-cuoc-doi/4.mp3",
+    "title" : "4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-hoach-cuoc-doi/5.mp3",
+    "title" : "5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-hoach-cuoc-doi/6.mp3",
+    "title" : "6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-hoach-cuoc-doi/7.mp3",
+    "title" : "7",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

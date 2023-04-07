@@ -1,0 +1,46 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ngay-xua-co-mot-con-bo_19361.html",
+    "title" : "Ngày Xưa Có Một Con Bò",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Camilo Cruz, PhD",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 9250,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/EPUB/EPUB_69a45441f97baadf14539c0ecf7778d4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/IMAGE/IMAGE_69a45441f97baadf14539c0ecf7778d4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/NgyXaCMtConBFullCamiloCruzSchNiHay/Ng%C3%A0y%20x%C6%B0a%20c%C3%B3%20m%E1%BB%99t%20con%20b%C3%B2%20%28Full%29%20-%20Camilo%20Cruz%20%20%20S%C3%A1ch%20n%C3%B3i%20hay.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9250,
+    "title" : "Ngày xưa có một con bò (Full) - Camilo Cruz Sách nói hay"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/NgyXaCMtConBFullCamiloCruzSchNiHay/Ng%C3%A0y%20x%C6%B0a%20c%C3%B3%20m%E1%BB%99t%20con%20b%C3%B2%20%28Full%29%20-%20Camilo%20Cruz%20%20%20S%C3%A1ch%20n%C3%B3i%20hay.mp3",
+    "title" : "Ngày xưa có một con bò (Full) - Camilo Cruz Sách nói hay",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

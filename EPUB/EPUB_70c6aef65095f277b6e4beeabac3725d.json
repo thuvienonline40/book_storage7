@@ -1,0 +1,156 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/the-gioi-dung-gio_19788.html",
+    "title" : "Thế Giới Đúng Giờ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jame C. Wetherbe",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 23879,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/EPUB/EPUB_70c6aef65095f277b6e4beeabac3725d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/IMAGE/IMAGE_70c6aef65095f277b6e4beeabac3725d.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/the-gioi-dung-gio.sna/1.TGDG_PhanMoDau_ChuyenDiLucNuaDemTaiMemphis.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1828,
+    "title" : "1.TGDG PhanMoDau ChuyenDiLucNuaDemTaiMemphis"
+  }, {
+    "href" : "https://archive.org/download/the-gioi-dung-gio.sna/10.TGDG_C9_NguoiDoDuThiMatCoHoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1845,
+    "title" : "10.TGDG C9 NguoiDoDuThiMatCoHoi"
+  }, {
+    "href" : "https://archive.org/download/the-gioi-dung-gio.sna/11.TGDG_C10_BuongRaThiKho.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1883,
+    "title" : "11.TGDG C10 BuongRaThiKho"
+  }, {
+    "href" : "https://archive.org/download/the-gioi-dung-gio.sna/12.TGDG_C11_CacHinhAnhLaThucTe.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2354,
+    "title" : "12.TGDG C11 CacHinhAnhLaThucTe"
+  }, {
+    "href" : "https://archive.org/download/the-gioi-dung-gio.sna/2.TGDG_C1_BanKhongBaoGioCoTheCongHienDuChoNhungConNguoiCuaBan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2416,
+    "title" : "2.TGDG C1 BanKhongBaoGioCoTheCongHienDuChoNhungConNguoiCuaBan"
+  }, {
+    "href" : "https://archive.org/download/the-gioi-dung-gio.sna/3.TGDG_C2_MoiNguoiSanSangGiupDo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1735,
+    "title" : "3.TGDG C2 MoiNguoiSanSangGiupDo"
+  }, {
+    "href" : "https://archive.org/download/the-gioi-dung-gio.sna/4.TGDG_C3_PhanThuongLaTatCaMotCachChacChanVaTichCuc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1863,
+    "title" : "4.TGDG C3 PhanThuongLaTatCaMotCachChacChanVaTichCuc"
+  }, {
+    "href" : "https://archive.org/download/the-gioi-dung-gio.sna/5.TGDG_C4_MotVanHoaLoiCuonCoNhieuNetVanHoa.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1898,
+    "title" : "5.TGDG C4 MotVanHoaLoiCuonCoNhieuNetVanHoa"
+  }, {
+    "href" : "https://archive.org/download/the-gioi-dung-gio.sna/6.TGDG_C5_TruyenCamHungCoTacDungGapRatNhieuLanSuKiemSoat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1819,
+    "title" : "6.TGDG C5 TruyenCamHungCoTacDungGapRatNhieuLanSuKiemSoat"
+  }, {
+    "href" : "https://archive.org/download/the-gioi-dung-gio.sna/7.TGDG_C6_QuyTacDauTienLaThayDoiCacQuyTac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2395,
+    "title" : "7.TGDG C6 QuyTacDauTienLaThayDoiCacQuyTac"
+  }, {
+    "href" : "https://archive.org/download/the-gioi-dung-gio.sna/8.TGDG_C7_TrongCaiRuiCoCaiMay.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1790,
+    "title" : "8.TGDG C7 TrongCaiRuiCoCaiMay"
+  }, {
+    "href" : "https://archive.org/download/the-gioi-dung-gio.sna/9.TGDG_C8_PhanMemBangVoiSuTietKiemDichVuVaBanHang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2053,
+    "title" : "9.TGDG C8 PhanMemBangVoiSuTietKiemDichVuVaBanHang"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/the-gioi-dung-gio.sna/1.TGDG_PhanMoDau_ChuyenDiLucNuaDemTaiMemphis.mp3",
+    "title" : "1.TGDG PhanMoDau ChuyenDiLucNuaDemTaiMemphis",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-gioi-dung-gio.sna/10.TGDG_C9_NguoiDoDuThiMatCoHoi.mp3",
+    "title" : "10.TGDG C9 NguoiDoDuThiMatCoHoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-gioi-dung-gio.sna/11.TGDG_C10_BuongRaThiKho.mp3",
+    "title" : "11.TGDG C10 BuongRaThiKho",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-gioi-dung-gio.sna/12.TGDG_C11_CacHinhAnhLaThucTe.mp3",
+    "title" : "12.TGDG C11 CacHinhAnhLaThucTe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-gioi-dung-gio.sna/2.TGDG_C1_BanKhongBaoGioCoTheCongHienDuChoNhungConNguoiCuaBan.mp3",
+    "title" : "2.TGDG C1 BanKhongBaoGioCoTheCongHienDuChoNhungConNguoiCuaBan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-gioi-dung-gio.sna/3.TGDG_C2_MoiNguoiSanSangGiupDo.mp3",
+    "title" : "3.TGDG C2 MoiNguoiSanSangGiupDo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-gioi-dung-gio.sna/4.TGDG_C3_PhanThuongLaTatCaMotCachChacChanVaTichCuc.mp3",
+    "title" : "4.TGDG C3 PhanThuongLaTatCaMotCachChacChanVaTichCuc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-gioi-dung-gio.sna/5.TGDG_C4_MotVanHoaLoiCuonCoNhieuNetVanHoa.mp3",
+    "title" : "5.TGDG C4 MotVanHoaLoiCuonCoNhieuNetVanHoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-gioi-dung-gio.sna/6.TGDG_C5_TruyenCamHungCoTacDungGapRatNhieuLanSuKiemSoat.mp3",
+    "title" : "6.TGDG C5 TruyenCamHungCoTacDungGapRatNhieuLanSuKiemSoat",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-gioi-dung-gio.sna/7.TGDG_C6_QuyTacDauTienLaThayDoiCacQuyTac.mp3",
+    "title" : "7.TGDG C6 QuyTacDauTienLaThayDoiCacQuyTac",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-gioi-dung-gio.sna/8.TGDG_C7_TrongCaiRuiCoCaiMay.mp3",
+    "title" : "8.TGDG C7 TrongCaiRuiCoCaiMay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-gioi-dung-gio.sna/9.TGDG_C8_PhanMemBangVoiSuTietKiemDichVuVaBanHang.mp3",
+    "title" : "9.TGDG C8 PhanMemBangVoiSuTietKiemDichVuVaBanHang",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

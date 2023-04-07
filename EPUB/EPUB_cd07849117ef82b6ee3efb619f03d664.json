@@ -1,0 +1,76 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tuoi-30-hoai-bao_19444.html",
+    "title" : "Tuổi 30 Hoài Bão",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ken Honda",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 32858,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/EPUB/EPUB_cd07849117ef82b6ee3efb619f03d664.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/IMAGE/IMAGE_cd07849117ef82b6ee3efb619f03d664.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/audio-book-tuoi-30-hoai-bao-ken-honda-full-version/AUDIOBOOK%20-%20TU%E1%BB%94I%2020%20Y%C3%8AU%20TH%C6%AF%C6%A0NG%20-%20KEN%20HONDA%20%28FULL%20VERSION%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9163,
+    "title" : "AUDIOBOOK - TUỔI 20 YÊU THƯƠNG - KEN HONDA (FULL VERSION)"
+  }, {
+    "href" : "https://archive.org/download/audio-book-tuoi-30-hoai-bao-ken-honda-full-version/AudioBook%20-%20Tu%E1%BB%95i%2030%20ho%C3%A0i%20b%C3%A3o%20-%20Ken%20Honda%20%28Full%20Version%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8221,
+    "title" : "AudioBook - Tuổi 30 hoài bão - Ken Honda (Full Version)"
+  }, {
+    "href" : "https://archive.org/download/audio-book-tuoi-30-hoai-bao-ken-honda-full-version/Audiobook%20-%20Tu%E1%BB%95i%2020%20nhi%E1%BB%87t%20huy%E1%BA%BFt%20-%20Ken%20Honda%20%28Full%20version%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8981,
+    "title" : "Audiobook - Tuổi 20 nhiệt huyết - Ken Honda (Full version)"
+  }, {
+    "href" : "https://archive.org/download/audio-book-tuoi-30-hoai-bao-ken-honda-full-version/Audiobook%20-%20Tu%E1%BB%95i%2040%20tr%E1%BA%A3i%20nghi%E1%BB%87m%20-%20Ken%20Honda%20-%20Full.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6493,
+    "title" : "Audiobook - Tuổi 40 trải nghiệm - Ken Honda - Full"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/audio-book-tuoi-30-hoai-bao-ken-honda-full-version/AUDIOBOOK%20-%20TU%E1%BB%94I%2020%20Y%C3%8AU%20TH%C6%AF%C6%A0NG%20-%20KEN%20HONDA%20%28FULL%20VERSION%29.mp3",
+    "title" : "AUDIOBOOK - TUỔI 20 YÊU THƯƠNG - KEN HONDA (FULL VERSION)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-book-tuoi-30-hoai-bao-ken-honda-full-version/AudioBook%20-%20Tu%E1%BB%95i%2030%20ho%C3%A0i%20b%C3%A3o%20-%20Ken%20Honda%20%28Full%20Version%29.mp3",
+    "title" : "AudioBook - Tuổi 30 hoài bão - Ken Honda (Full Version)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-book-tuoi-30-hoai-bao-ken-honda-full-version/Audiobook%20-%20Tu%E1%BB%95i%2020%20nhi%E1%BB%87t%20huy%E1%BA%BFt%20-%20Ken%20Honda%20%28Full%20version%29.mp3",
+    "title" : "Audiobook - Tuổi 20 nhiệt huyết - Ken Honda (Full version)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-book-tuoi-30-hoai-bao-ken-honda-full-version/Audiobook%20-%20Tu%E1%BB%95i%2040%20tr%E1%BA%A3i%20nghi%E1%BB%87m%20-%20Ken%20Honda%20-%20Full.mp3",
+    "title" : "Audiobook - Tuổi 40 trải nghiệm - Ken Honda - Full",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,106 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/suoi-nguon-tuoi-tre_19871.html",
+    "title" : "Suối Nguồn Tươi Trẻ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Peter Kelder",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 8562,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/EPUB/EPUB_f0c087b0c1cdc7d22aeea1036d5e3ea2.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/IMAGE/IMAGE_f0c087b0c1cdc7d22aeea1036d5e3ea2.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/suoi-nguon-tuoi-tre-tap-01.sna/01_LoiNoiDau_SuoiNguonTuoiTre1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1979,
+    "title" : "01 LoiNoiDau SuoiNguonTuoiTre1"
+  }, {
+    "href" : "https://archive.org/download/suoi-nguon-tuoi-tre-tap-01.sna/02_Phan1A_ThucThuNhat_ThucThuHai_SuoiNguonTuoiTre1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1503,
+    "title" : "02 Phan1A ThucThuNhat ThucThuHai SuoiNguonTuoiTre1"
+  }, {
+    "href" : "https://archive.org/download/suoi-nguon-tuoi-tre-tap-01.sna/03_Phan1B_ThucThuBa_ThucThuTu_ThucThuNam_SuoiNguonTuoiTre1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1303,
+    "title" : "03 Phan1B ThucThuBa ThucThuTu ThucThuNam SuoiNguonTuoiTre1"
+  }, {
+    "href" : "https://archive.org/download/suoi-nguon-tuoi-tre-tap-01.sna/04_Phan2_SuoiNguonTuoiTre1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1069,
+    "title" : "04 Phan2 SuoiNguonTuoiTre1"
+  }, {
+    "href" : "https://archive.org/download/suoi-nguon-tuoi-tre-tap-01.sna/05_Phan3_SuoiNguonTuoiTre1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 643,
+    "title" : "05 Phan3 SuoiNguonTuoiTre1"
+  }, {
+    "href" : "https://archive.org/download/suoi-nguon-tuoi-tre-tap-01.sna/06_Phan4_SuoiNguonTuoiTre1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 936,
+    "title" : "06 Phan4 SuoiNguonTuoiTre1"
+  }, {
+    "href" : "https://archive.org/download/suoi-nguon-tuoi-tre-tap-01.sna/07_PhuLuc_SuoiNguonTuoiTre1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1129,
+    "title" : "07 PhuLuc SuoiNguonTuoiTre1"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/suoi-nguon-tuoi-tre-tap-01.sna/01_LoiNoiDau_SuoiNguonTuoiTre1.mp3",
+    "title" : "01 LoiNoiDau SuoiNguonTuoiTre1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/suoi-nguon-tuoi-tre-tap-01.sna/02_Phan1A_ThucThuNhat_ThucThuHai_SuoiNguonTuoiTre1.mp3",
+    "title" : "02 Phan1A ThucThuNhat ThucThuHai SuoiNguonTuoiTre1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/suoi-nguon-tuoi-tre-tap-01.sna/03_Phan1B_ThucThuBa_ThucThuTu_ThucThuNam_SuoiNguonTuoiTre1.mp3",
+    "title" : "03 Phan1B ThucThuBa ThucThuTu ThucThuNam SuoiNguonTuoiTre1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/suoi-nguon-tuoi-tre-tap-01.sna/04_Phan2_SuoiNguonTuoiTre1.mp3",
+    "title" : "04 Phan2 SuoiNguonTuoiTre1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/suoi-nguon-tuoi-tre-tap-01.sna/05_Phan3_SuoiNguonTuoiTre1.mp3",
+    "title" : "05 Phan3 SuoiNguonTuoiTre1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/suoi-nguon-tuoi-tre-tap-01.sna/06_Phan4_SuoiNguonTuoiTre1.mp3",
+    "title" : "06 Phan4 SuoiNguonTuoiTre1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/suoi-nguon-tuoi-tre-tap-01.sna/07_PhuLuc_SuoiNguonTuoiTre1.mp3",
+    "title" : "07 PhuLuc SuoiNguonTuoiTre1",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

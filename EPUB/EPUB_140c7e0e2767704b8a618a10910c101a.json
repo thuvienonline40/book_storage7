@@ -1,0 +1,96 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/me-min-bo-min_19820.html",
+    "title" : "Mẹ Mìn Bố Mìn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tô Hoài",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 11975,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/EPUB/EPUB_140c7e0e2767704b8a618a10910c101a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/IMAGE/IMAGE_140c7e0e2767704b8a618a10910c101a.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/me-min-bo-min-to-hoai.sna/yeuaudio.com_me-min-bo-min-to-hoai_p01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1602,
+    "title" : "Mẹ Mìn Bố Mìn"
+  }, {
+    "href" : "https://archive.org/download/me-min-bo-min-to-hoai.sna/yeuaudio.com_me-min-bo-min-to-hoai_p02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2430,
+    "title" : "Mẹ Mìn Bố Mìn"
+  }, {
+    "href" : "https://archive.org/download/me-min-bo-min-to-hoai.sna/yeuaudio.com_me-min-bo-min-to-hoai_p03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2091,
+    "title" : "Mẹ Mìn Bố Mìn"
+  }, {
+    "href" : "https://archive.org/download/me-min-bo-min-to-hoai.sna/yeuaudio.com_me-min-bo-min-to-hoai_p04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2135,
+    "title" : "Mẹ Mìn Bố Mìn"
+  }, {
+    "href" : "https://archive.org/download/me-min-bo-min-to-hoai.sna/yeuaudio.com_me-min-bo-min-to-hoai_p05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2047,
+    "title" : "Mẹ Mìn Bố Mìn"
+  }, {
+    "href" : "https://archive.org/download/me-min-bo-min-to-hoai.sna/yeuaudio.com_me-min-bo-min-to-hoai_p06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1670,
+    "title" : "Mẹ Mìn Bố Mìn"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/me-min-bo-min-to-hoai.sna/yeuaudio.com_me-min-bo-min-to-hoai_p01.mp3",
+    "title" : "Mẹ Mìn Bố Mìn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-min-bo-min-to-hoai.sna/yeuaudio.com_me-min-bo-min-to-hoai_p02.mp3",
+    "title" : "Mẹ Mìn Bố Mìn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-min-bo-min-to-hoai.sna/yeuaudio.com_me-min-bo-min-to-hoai_p03.mp3",
+    "title" : "Mẹ Mìn Bố Mìn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-min-bo-min-to-hoai.sna/yeuaudio.com_me-min-bo-min-to-hoai_p04.mp3",
+    "title" : "Mẹ Mìn Bố Mìn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-min-bo-min-to-hoai.sna/yeuaudio.com_me-min-bo-min-to-hoai_p05.mp3",
+    "title" : "Mẹ Mìn Bố Mìn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-min-bo-min-to-hoai.sna/yeuaudio.com_me-min-bo-min-to-hoai_p06.mp3",
+    "title" : "Mẹ Mìn Bố Mìn",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

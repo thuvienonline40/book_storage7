@@ -1,0 +1,76 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thoi-quen-thanh-cong-bi-mat-de-luyen-nghi-lam-giau-thuc-hanh-lam-giau_19475.html",
+    "title" : "Thói quen thành công - Bí Mật Để Luyện Nghĩ Làm Giàu, Thực Hành Làm Giàu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Napoleon Hill",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 13193,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/EPUB/EPUB_8bec0c64b870d7c88d1b7e2a6a53de8f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/IMAGE/IMAGE_8bec0c64b870d7c88d1b7e2a6a53de8f.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thoi-quen-1/thoi-quen-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "thoi-quen-1"
+  }, {
+    "href" : "https://archive.org/download/thoi-quen-1/thoi-quen-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "thoi-quen-2"
+  }, {
+    "href" : "https://archive.org/download/thoi-quen-1/thoi-quen-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "thoi-quen-3"
+  }, {
+    "href" : "https://archive.org/download/thoi-quen-1/thoi-quen-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2393,
+    "title" : "thoi-quen-4"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thoi-quen-1/thoi-quen-1.mp3",
+    "title" : "thoi-quen-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thoi-quen-1/thoi-quen-2.mp3",
+    "title" : "thoi-quen-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thoi-quen-1/thoi-quen-3.mp3",
+    "title" : "thoi-quen-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thoi-quen-1/thoi-quen-4.mp3",
+    "title" : "thoi-quen-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

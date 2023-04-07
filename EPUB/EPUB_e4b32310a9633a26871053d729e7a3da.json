@@ -1,0 +1,96 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/truc-lam-day-song_19385.html",
+    "title" : "Trúc Lâm Dậy Sóng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Hộ Giác",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 21529,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/EPUB/EPUB_e4b32310a9633a26871053d729e7a3da.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/IMAGE/IMAGE_e4b32310a9633a26871053d729e7a3da.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/truc-lam-1/truc-lam-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "truc-lam-1"
+  }, {
+    "href" : "https://archive.org/download/truc-lam-1/truc-lam-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "truc-lam-2"
+  }, {
+    "href" : "https://archive.org/download/truc-lam-1/truc-lam-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "truc-lam-3"
+  }, {
+    "href" : "https://archive.org/download/truc-lam-1/truc-lam-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "truc-lam-4"
+  }, {
+    "href" : "https://archive.org/download/truc-lam-1/truc-lam-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "truc-lam-5"
+  }, {
+    "href" : "https://archive.org/download/truc-lam-1/truc-lam-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3529,
+    "title" : "truc-lam-6"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/truc-lam-1/truc-lam-1.mp3",
+    "title" : "truc-lam-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truc-lam-1/truc-lam-2.mp3",
+    "title" : "truc-lam-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truc-lam-1/truc-lam-3.mp3",
+    "title" : "truc-lam-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truc-lam-1/truc-lam-4.mp3",
+    "title" : "truc-lam-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truc-lam-1/truc-lam-5.mp3",
+    "title" : "truc-lam-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truc-lam-1/truc-lam-6.mp3",
+    "title" : "truc-lam-6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,156 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cach-song-tu-binh-thuong-tro-nen-phi-thuong_19450.html",
+    "title" : "Cách Sống - Từ Bình Thường Trở Nên Phi Thường",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Inamori Kazuo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 21737,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/EPUB/EPUB_9282ae19afd0bd1c201d45e51b6c90cf.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/IMAGE/IMAGE_9282ae19afd0bd1c201d45e51b6c90cf.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cach-song.sna/1.CSTBTTNPT_MoDauA.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1508,
+    "title" : "1.CSTBTTNPT MoDauA"
+  }, {
+    "href" : "https://archive.org/download/cach-song.sna/10.CSTBTTNPT_C4B_SongVoiLongViTha.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1536,
+    "title" : "10.CSTBTTNPT C4B SongVoiLongViTha"
+  }, {
+    "href" : "https://archive.org/download/cach-song.sna/11.CSTBTTNPT_C5A_HoaHopVoiDongChayCuaVuTru.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1954,
+    "title" : "11.CSTBTTNPT C5A HoaHopVoiDongChayCuaVuTru"
+  }, {
+    "href" : "https://archive.org/download/cach-song.sna/12.CSTBTTNPT_C5B_HoaHopVoiDongChayCuaVuTru.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1610,
+    "title" : "12.CSTBTTNPT C5B HoaHopVoiDongChayCuaVuTru"
+  }, {
+    "href" : "https://archive.org/download/cach-song.sna/2.CSTBTTNPT_MoDauB.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1188,
+    "title" : "2.CSTBTTNPT MoDauB"
+  }, {
+    "href" : "https://archive.org/download/cach-song.sna/3.CSTBTTNPT_C1A_BienSuyNghiThanhHienThuc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2170,
+    "title" : "3.CSTBTTNPT C1A BienSuyNghiThanhHienThuc"
+  }, {
+    "href" : "https://archive.org/download/cach-song.sna/4.CSTBTTNPT_C1B_BienSuyNghiThanhHienThuc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2017,
+    "title" : "4.CSTBTTNPT C1B BienSuyNghiThanhHienThuc"
+  }, {
+    "href" : "https://archive.org/download/cach-song.sna/5.CSTBTTNPT_C2A_SuyNghiTuNguyenLyVaNguyenTac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2002,
+    "title" : "5.CSTBTTNPT C2A SuyNghiTuNguyenLyVaNguyenTac"
+  }, {
+    "href" : "https://archive.org/download/cach-song.sna/6.CSTBTTNPT_C2B_SuyNghiTuNguyenLyVaNguyenTac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1770,
+    "title" : "6.CSTBTTNPT C2B SuyNghiTuNguyenLyVaNguyenTac"
+  }, {
+    "href" : "https://archive.org/download/cach-song.sna/7.CSTBTTNPT_C3A_MaiGiuaNhanCachVaNangCaoTamHon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1964,
+    "title" : "7.CSTBTTNPT C3A MaiGiuaNhanCachVaNangCaoTamHon"
+  }, {
+    "href" : "https://archive.org/download/cach-song.sna/8.CSTBTTNPT_C3B_MaiGiuaNhanCachVaNangCaoTamHon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2249,
+    "title" : "8.CSTBTTNPT C3B MaiGiuaNhanCachVaNangCaoTamHon"
+  }, {
+    "href" : "https://archive.org/download/cach-song.sna/9.CSTBTTNPT_C4A_SongVoiLongViTha.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1769,
+    "title" : "9.CSTBTTNPT C4A SongVoiLongViTha"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cach-song.sna/1.CSTBTTNPT_MoDauA.mp3",
+    "title" : "1.CSTBTTNPT MoDauA",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cach-song.sna/10.CSTBTTNPT_C4B_SongVoiLongViTha.mp3",
+    "title" : "10.CSTBTTNPT C4B SongVoiLongViTha",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cach-song.sna/11.CSTBTTNPT_C5A_HoaHopVoiDongChayCuaVuTru.mp3",
+    "title" : "11.CSTBTTNPT C5A HoaHopVoiDongChayCuaVuTru",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cach-song.sna/12.CSTBTTNPT_C5B_HoaHopVoiDongChayCuaVuTru.mp3",
+    "title" : "12.CSTBTTNPT C5B HoaHopVoiDongChayCuaVuTru",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cach-song.sna/2.CSTBTTNPT_MoDauB.mp3",
+    "title" : "2.CSTBTTNPT MoDauB",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cach-song.sna/3.CSTBTTNPT_C1A_BienSuyNghiThanhHienThuc.mp3",
+    "title" : "3.CSTBTTNPT C1A BienSuyNghiThanhHienThuc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cach-song.sna/4.CSTBTTNPT_C1B_BienSuyNghiThanhHienThuc.mp3",
+    "title" : "4.CSTBTTNPT C1B BienSuyNghiThanhHienThuc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cach-song.sna/5.CSTBTTNPT_C2A_SuyNghiTuNguyenLyVaNguyenTac.mp3",
+    "title" : "5.CSTBTTNPT C2A SuyNghiTuNguyenLyVaNguyenTac",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cach-song.sna/6.CSTBTTNPT_C2B_SuyNghiTuNguyenLyVaNguyenTac.mp3",
+    "title" : "6.CSTBTTNPT C2B SuyNghiTuNguyenLyVaNguyenTac",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cach-song.sna/7.CSTBTTNPT_C3A_MaiGiuaNhanCachVaNangCaoTamHon.mp3",
+    "title" : "7.CSTBTTNPT C3A MaiGiuaNhanCachVaNangCaoTamHon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cach-song.sna/8.CSTBTTNPT_C3B_MaiGiuaNhanCachVaNangCaoTamHon.mp3",
+    "title" : "8.CSTBTTNPT C3B MaiGiuaNhanCachVaNangCaoTamHon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cach-song.sna/9.CSTBTTNPT_C4A_SongVoiLongViTha.mp3",
+    "title" : "9.CSTBTTNPT C4A SongVoiLongViTha",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,86 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/phong-tro-ba-nguoi_19286.html",
+    "title" : "Phòng Trọ Ba Người",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Nhật Ánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 17102,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/EPUB/EPUB_fde4260725405720b9ecc988441f3d22.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/IMAGE/IMAGE_fde4260725405720b9ecc988441f3d22.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/phong-tro-1/phong-tro-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "phong-tro-1"
+  }, {
+    "href" : "https://archive.org/download/phong-tro-1/phong-tro-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "phong-tro-2"
+  }, {
+    "href" : "https://archive.org/download/phong-tro-1/phong-tro-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "phong-tro-3"
+  }, {
+    "href" : "https://archive.org/download/phong-tro-1/phong-tro-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "phong-tro-4"
+  }, {
+    "href" : "https://archive.org/download/phong-tro-1/phong-tro-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2702,
+    "title" : "phong-tro-5"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/phong-tro-1/phong-tro-1.mp3",
+    "title" : "phong-tro-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-tro-1/phong-tro-2.mp3",
+    "title" : "phong-tro-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-tro-1/phong-tro-3.mp3",
+    "title" : "phong-tro-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-tro-1/phong-tro-4.mp3",
+    "title" : "phong-tro-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-tro-1/phong-tro-5.mp3",
+    "title" : "phong-tro-5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

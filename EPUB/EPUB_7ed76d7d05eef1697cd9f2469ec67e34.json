@@ -1,0 +1,86 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tro-ve-tu-xu-tuyet_19637.html",
+    "title" : "Trở Về Từ Xứ Tuyết",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyên Phong",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 20271,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/EPUB/EPUB_7ed76d7d05eef1697cd9f2469ec67e34.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/IMAGE/IMAGE_7ed76d7d05eef1697cd9f2469ec67e34.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tro-ve-1_202112/tro-ve-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4200,
+    "title" : "tro-ve-1"
+  }, {
+    "href" : "https://archive.org/download/tro-ve-1_202112/tro-ve-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4200,
+    "title" : "tro-ve-2"
+  }, {
+    "href" : "https://archive.org/download/tro-ve-1_202112/tro-ve-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4200,
+    "title" : "tro-ve-3"
+  }, {
+    "href" : "https://archive.org/download/tro-ve-1_202112/tro-ve-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4200,
+    "title" : "tro-ve-4"
+  }, {
+    "href" : "https://archive.org/download/tro-ve-1_202112/tro-ve-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3471,
+    "title" : "tro-ve-5"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tro-ve-1_202112/tro-ve-1.mp3",
+    "title" : "tro-ve-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tro-ve-1_202112/tro-ve-2.mp3",
+    "title" : "tro-ve-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tro-ve-1_202112/tro-ve-3.mp3",
+    "title" : "tro-ve-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tro-ve-1_202112/tro-ve-4.mp3",
+    "title" : "tro-ve-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tro-ve-1_202112/tro-ve-5.mp3",
+    "title" : "tro-ve-5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
