@@ -1,0 +1,86 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ho-chieu-hanh-phuc_19994.html",
+    "title" : "Hộ Chiếu Hạnh Phúc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ehara Hiroyuki",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-12",
+    "duration" : 13504,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/EPUB/EPUB_9fe440bf1c83984b78ba706a355c4729.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/IMAGE/IMAGE_9fe440bf1c83984b78ba706a355c4729.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ho-chieu-1/ho-chieu-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2841,
+    "title" : "ho-chieu-1"
+  }, {
+    "href" : "https://archive.org/download/ho-chieu-1/ho-chieu-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2811,
+    "title" : "ho-chieu-2"
+  }, {
+    "href" : "https://archive.org/download/ho-chieu-1/ho-chieu-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2796,
+    "title" : "ho-chieu-3"
+  }, {
+    "href" : "https://archive.org/download/ho-chieu-1/ho-chieu-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2604,
+    "title" : "ho-chieu-4"
+  }, {
+    "href" : "https://archive.org/download/ho-chieu-1/ho-chieu-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2452,
+    "title" : "ho-chieu-5"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ho-chieu-1/ho-chieu-1.mp3",
+    "title" : "ho-chieu-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-chieu-1/ho-chieu-2.mp3",
+    "title" : "ho-chieu-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-chieu-1/ho-chieu-3.mp3",
+    "title" : "ho-chieu-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-chieu-1/ho-chieu-4.mp3",
+    "title" : "ho-chieu-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-chieu-1/ho-chieu-5.mp3",
+    "title" : "ho-chieu-5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
