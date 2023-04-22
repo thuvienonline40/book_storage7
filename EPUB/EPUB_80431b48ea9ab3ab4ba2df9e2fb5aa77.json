@@ -1,0 +1,116 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nuoi-con-khong-phai-la-cuoc-chien_20034.html",
+    "title" : "Nuôi Con Không Phải Là Cuộc Chiến",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hachun Lyonnet",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-22",
+    "duration" : 26620,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/EPUB/EPUB_80431b48ea9ab3ab4ba2df9e2fb5aa77.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/IMAGE/IMAGE_80431b48ea9ab3ab4ba2df9e2fb5aa77.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nuoi-con-8/nuoi-con-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3240,
+    "title" : "nuoi-con-1"
+  }, {
+    "href" : "https://archive.org/download/nuoi-con-8/nuoi-con-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3240,
+    "title" : "nuoi-con-2"
+  }, {
+    "href" : "https://archive.org/download/nuoi-con-8/nuoi-con-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3284,
+    "title" : "nuoi-con-3"
+  }, {
+    "href" : "https://archive.org/download/nuoi-con-8/nuoi-con-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3284,
+    "title" : "nuoi-con-4"
+  }, {
+    "href" : "https://archive.org/download/nuoi-con-8/nuoi-con-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3284,
+    "title" : "nuoi-con-5"
+  }, {
+    "href" : "https://archive.org/download/nuoi-con-8/nuoi-con-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3284,
+    "title" : "nuoi-con-6"
+  }, {
+    "href" : "https://archive.org/download/nuoi-con-8/nuoi-con-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3284,
+    "title" : "nuoi-con-7"
+  }, {
+    "href" : "https://archive.org/download/nuoi-con-8/nuoi-con-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3720,
+    "title" : "nuoi-con-8"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nuoi-con-8/nuoi-con-1.mp3",
+    "title" : "nuoi-con-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuoi-con-8/nuoi-con-2.mp3",
+    "title" : "nuoi-con-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuoi-con-8/nuoi-con-3.mp3",
+    "title" : "nuoi-con-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuoi-con-8/nuoi-con-4.mp3",
+    "title" : "nuoi-con-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuoi-con-8/nuoi-con-5.mp3",
+    "title" : "nuoi-con-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuoi-con-8/nuoi-con-6.mp3",
+    "title" : "nuoi-con-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuoi-con-8/nuoi-con-7.mp3",
+    "title" : "nuoi-con-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuoi-con-8/nuoi-con-8.mp3",
+    "title" : "nuoi-con-8",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

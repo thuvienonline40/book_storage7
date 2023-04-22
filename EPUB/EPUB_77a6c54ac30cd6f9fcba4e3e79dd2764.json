@@ -1,0 +1,96 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cho-quen-minh-la-nuoc_20106.html",
+    "title" : "Chớ Quên Mình Là Nước",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Văn Công Tuấn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-22",
+    "duration" : 21340,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/EPUB/EPUB_77a6c54ac30cd6f9fcba4e3e79dd2764.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/IMAGE/IMAGE_77a6c54ac30cd6f9fcba4e3e79dd2764.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cho-quen-1/cho-quen-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "cho-quen-1"
+  }, {
+    "href" : "https://archive.org/download/cho-quen-1/cho-quen-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "cho-quen-2"
+  }, {
+    "href" : "https://archive.org/download/cho-quen-1/cho-quen-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "cho-quen-3"
+  }, {
+    "href" : "https://archive.org/download/cho-quen-1/cho-quen-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "cho-quen-4"
+  }, {
+    "href" : "https://archive.org/download/cho-quen-1/cho-quen-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "cho-quen-5"
+  }, {
+    "href" : "https://archive.org/download/cho-quen-1/cho-quen-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3340,
+    "title" : "cho-quen-6"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cho-quen-1/cho-quen-1.mp3",
+    "title" : "cho-quen-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-quen-1/cho-quen-2.mp3",
+    "title" : "cho-quen-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-quen-1/cho-quen-3.mp3",
+    "title" : "cho-quen-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-quen-1/cho-quen-4.mp3",
+    "title" : "cho-quen-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-quen-1/cho-quen-5.mp3",
+    "title" : "cho-quen-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-quen-1/cho-quen-6.mp3",
+    "title" : "cho-quen-6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

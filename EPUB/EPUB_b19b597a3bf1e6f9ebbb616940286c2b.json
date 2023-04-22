@@ -1,0 +1,86 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ben-bo-hanh-phuc_20028.html",
+    "title" : "Bến Bờ Hạnh Phúc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lâm Phương Lam",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-22",
+    "duration" : 22415,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/EPUB/EPUB_b19b597a3bf1e6f9ebbb616940286c2b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/IMAGE/IMAGE_b19b597a3bf1e6f9ebbb616940286c2b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ben-bo-1/ben-bo-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5158,
+    "title" : "ben-bo-1"
+  }, {
+    "href" : "https://archive.org/download/ben-bo-1/ben-bo-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4386,
+    "title" : "ben-bo-2"
+  }, {
+    "href" : "https://archive.org/download/ben-bo-1/ben-bo-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3645,
+    "title" : "Phần 3 | Tác giả: Lam Phượng"
+  }, {
+    "href" : "https://archive.org/download/ben-bo-1/ben-bo-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4598,
+    "title" : "Phần 4 | Tác giả: Lam Phượng"
+  }, {
+    "href" : "https://archive.org/download/ben-bo-1/ben-bo-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4628,
+    "title" : "Phần 5"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ben-bo-1/ben-bo-1.mp3",
+    "title" : "ben-bo-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ben-bo-1/ben-bo-2.mp3",
+    "title" : "ben-bo-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ben-bo-1/ben-bo-3.mp3",
+    "title" : "Phần 3 | Tác giả: Lam Phượng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ben-bo-1/ben-bo-4.mp3",
+    "title" : "Phần 4 | Tác giả: Lam Phượng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ben-bo-1/ben-bo-5.mp3",
+    "title" : "Phần 5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,186 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ve-phia-mat-troi_20058.html",
+    "title" : "Về Phía Mặt Trời",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Matthew Quick",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-22",
+    "duration" : 27660,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/EPUB/EPUB_35ec6ed03be689c436c851d76585cbd5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/IMAGE/IMAGE_35ec6ed03be689c436c851d76585cbd5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vephia-6/Vephia%201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1316,
+    "title" : "Vephia 1"
+  }, {
+    "href" : "https://archive.org/download/vephia-6/Vephia%2010.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1677,
+    "title" : "Vephia 10"
+  }, {
+    "href" : "https://archive.org/download/vephia-6/Vephia%2011.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1223,
+    "title" : "Vephia 11"
+  }, {
+    "href" : "https://archive.org/download/vephia-6/Vephia%2012.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2143,
+    "title" : "Vephia 12"
+  }, {
+    "href" : "https://archive.org/download/vephia-6/Vephia%2013.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1317,
+    "title" : "Vephia 13"
+  }, {
+    "href" : "https://archive.org/download/vephia-6/Vephia%2014.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2063,
+    "title" : "Vephia 14"
+  }, {
+    "href" : "https://archive.org/download/vephia-6/Vephia%2015.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1295,
+    "title" : "Vephia 15"
+  }, {
+    "href" : "https://archive.org/download/vephia-6/Vephia%202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2329,
+    "title" : "Vephia 2"
+  }, {
+    "href" : "https://archive.org/download/vephia-6/Vephia%203.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2264,
+    "title" : "Vephia 3"
+  }, {
+    "href" : "https://archive.org/download/vephia-6/Vephia%204.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2007,
+    "title" : "Vephia 4"
+  }, {
+    "href" : "https://archive.org/download/vephia-6/Vephia%205.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1458,
+    "title" : "Vephia 5"
+  }, {
+    "href" : "https://archive.org/download/vephia-6/Vephia%206.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2732,
+    "title" : "Vephia 6"
+  }, {
+    "href" : "https://archive.org/download/vephia-6/Vephia%207.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1796,
+    "title" : "Vephia 7"
+  }, {
+    "href" : "https://archive.org/download/vephia-6/Vephia%208.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1722,
+    "title" : "Vephia 8"
+  }, {
+    "href" : "https://archive.org/download/vephia-6/Vephia%209.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2318,
+    "title" : "Vephia 9"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vephia-6/Vephia%201.mp3",
+    "title" : "Vephia 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vephia-6/Vephia%2010.mp3",
+    "title" : "Vephia 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vephia-6/Vephia%2011.mp3",
+    "title" : "Vephia 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vephia-6/Vephia%2012.mp3",
+    "title" : "Vephia 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vephia-6/Vephia%2013.mp3",
+    "title" : "Vephia 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vephia-6/Vephia%2014.mp3",
+    "title" : "Vephia 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vephia-6/Vephia%2015.mp3",
+    "title" : "Vephia 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vephia-6/Vephia%202.mp3",
+    "title" : "Vephia 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vephia-6/Vephia%203.mp3",
+    "title" : "Vephia 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vephia-6/Vephia%204.mp3",
+    "title" : "Vephia 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vephia-6/Vephia%205.mp3",
+    "title" : "Vephia 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vephia-6/Vephia%206.mp3",
+    "title" : "Vephia 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vephia-6/Vephia%207.mp3",
+    "title" : "Vephia 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vephia-6/Vephia%208.mp3",
+    "title" : "Vephia 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vephia-6/Vephia%209.mp3",
+    "title" : "Vephia 9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

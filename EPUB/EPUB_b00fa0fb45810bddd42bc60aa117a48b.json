@@ -1,0 +1,226 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nguoi-sai-gon-bat-dac-di_20061.html",
+    "title" : "Người Sài Gòn Bất Đắc Dĩ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Võ Đắc Danh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-22",
+    "duration" : 47254,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/EPUB/EPUB_b00fa0fb45810bddd42bc60aa117a48b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage7/main/IMAGE/IMAGE_b00fa0fb45810bddd42bc60aa117a48b.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/noi-ay-bay-gio/C%C3%A1i%20b%E1%BA%BFp%20v%C3%A0%20m%E1%BB%91i%20t%C3%ACnh%20qu%C3%AA.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2709,
+    "title" : "Cái bếp và mối tình quê"
+  }, {
+    "href" : "https://archive.org/download/noi-ay-bay-gio/D%C3%A2n%20c%E1%BB%A7a%20ai%20v%C3%A0%20%C4%91%E1%BA%A5t%20c%E1%BB%A7a%20ai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2393,
+    "title" : "Dân của ai và đất của ai"
+  }, {
+    "href" : "https://archive.org/download/noi-ay-bay-gio/Gi%E1%BB%AFa%20hai%20d%C3%B2ng%20m%E1%BA%B7n%20ng%E1%BB%8Dt.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2754,
+    "title" : "Giữa hai dòng mặn ngọt"
+  }, {
+    "href" : "https://archive.org/download/noi-ay-bay-gio/G%C3%A3%20giang%20h%E1%BB%93%20l%C6%B0%C6%A1ng%20thi%E1%BB%87n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1253,
+    "title" : "Gã giang hồ lương thiện"
+  }, {
+    "href" : "https://archive.org/download/noi-ay-bay-gio/L%C3%BAa%20xu%E1%BB%93ng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2355,
+    "title" : "Lúa xuồng"
+  }, {
+    "href" : "https://archive.org/download/noi-ay-bay-gio/M%C3%B9a%20tr%C3%A1i%20m%E1%BA%AFm.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2160,
+    "title" : "Mùa trái mắm"
+  }, {
+    "href" : "https://archive.org/download/noi-ay-bay-gio/Nh%E1%BB%9B%20%C4%91%E1%BB%93ng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2262,
+    "title" : "Nhớ đồng"
+  }, {
+    "href" : "https://archive.org/download/noi-ay-bay-gio/N%C6%A1i%20%E1%BA%A5y%20b%C3%A2y%20gi%E1%BB%9D.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6798,
+    "title" : "Nơi ấy bây giờ"
+  }, {
+    "href" : "https://archive.org/download/noi-ay-bay-gio/N%C6%B0%E1%BB%9Bc%20m%E1%BA%AFt%20ng%C6%B0%E1%BB%9Di%20%C4%91i%20khai%20hoang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1146,
+    "title" : "Nước mắt người đi khai hoang"
+  }, {
+    "href" : "https://archive.org/download/noi-ay-bay-gio/Sao%20r%E1%BB%93i%20c%E1%BA%ADu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1778,
+    "title" : "Sao rồi cậu"
+  }, {
+    "href" : "https://archive.org/download/noi-ay-bay-gio/S%E1%BA%A7u%20n%E1%BB%AF%20%C3%9At%20B%E1%BA%A1ch%20Lan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1825,
+    "title" : "Sầu nữ Út Bạch Lan"
+  }, {
+    "href" : "https://archive.org/download/noi-ay-bay-gio/Th%C6%B0%20S%C3%A0i%20G%C3%B2n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2408,
+    "title" : "Thư Sài Gòn"
+  }, {
+    "href" : "https://archive.org/download/noi-ay-bay-gio/Th%E1%BA%BF%20gi%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20%C4%91i%C3%AAn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3333,
+    "title" : "Thế giới người điên"
+  }, {
+    "href" : "https://archive.org/download/noi-ay-bay-gio/V%C3%B5%20L%C3%A3o%20N%C3%B4ng%2C%20t%C3%ACnh%20anh%20b%C3%A1n%20chi%E1%BA%BFu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2429,
+    "title" : "Võ Lão Nông, tình anh bán chiếu"
+  }, {
+    "href" : "https://archive.org/download/noi-ay-bay-gio/%C4%90i%20trong%20m%C3%B9a%20n%C6%B0%E1%BB%9Bc%20n%E1%BB%95i.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3668,
+    "title" : "Đi trong mùa nước nổi"
+  }, {
+    "href" : "https://archive.org/download/noi-ay-bay-gio/%C4%90%E1%BA%A5t%20v%C3%A0%20m%C3%A1u.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1802,
+    "title" : "Đất và máu"
+  }, {
+    "href" : "https://archive.org/download/noi-ay-bay-gio/%C4%90%E1%BB%93ng%20c%E1%BB%8F%20ch%C3%A1t.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1376,
+    "title" : "Đồng cỏ chát"
+  }, {
+    "href" : "https://archive.org/download/noi-ay-bay-gio/%C4%90%E1%BB%9Di%20ch%E1%BB%A3%20-%20Ch%E1%BB%A3%20%C4%91%E1%BB%9Di.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2207,
+    "title" : "Đời chợ - Chợ đời"
+  }, {
+    "href" : "https://archive.org/download/noi-ay-bay-gio/%C4%90%E1%BB%A9a%20con%20nu%C3%B4i.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2598,
+    "title" : "Đứa con nuôi"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/noi-ay-bay-gio/C%C3%A1i%20b%E1%BA%BFp%20v%C3%A0%20m%E1%BB%91i%20t%C3%ACnh%20qu%C3%AA.mp3",
+    "title" : "Cái bếp và mối tình quê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-ay-bay-gio/D%C3%A2n%20c%E1%BB%A7a%20ai%20v%C3%A0%20%C4%91%E1%BA%A5t%20c%E1%BB%A7a%20ai.mp3",
+    "title" : "Dân của ai và đất của ai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-ay-bay-gio/Gi%E1%BB%AFa%20hai%20d%C3%B2ng%20m%E1%BA%B7n%20ng%E1%BB%8Dt.mp3",
+    "title" : "Giữa hai dòng mặn ngọt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-ay-bay-gio/G%C3%A3%20giang%20h%E1%BB%93%20l%C6%B0%C6%A1ng%20thi%E1%BB%87n.mp3",
+    "title" : "Gã giang hồ lương thiện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-ay-bay-gio/L%C3%BAa%20xu%E1%BB%93ng.mp3",
+    "title" : "Lúa xuồng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-ay-bay-gio/M%C3%B9a%20tr%C3%A1i%20m%E1%BA%AFm.mp3",
+    "title" : "Mùa trái mắm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-ay-bay-gio/Nh%E1%BB%9B%20%C4%91%E1%BB%93ng.mp3",
+    "title" : "Nhớ đồng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-ay-bay-gio/N%C6%A1i%20%E1%BA%A5y%20b%C3%A2y%20gi%E1%BB%9D.mp3",
+    "title" : "Nơi ấy bây giờ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-ay-bay-gio/N%C6%B0%E1%BB%9Bc%20m%E1%BA%AFt%20ng%C6%B0%E1%BB%9Di%20%C4%91i%20khai%20hoang.mp3",
+    "title" : "Nước mắt người đi khai hoang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-ay-bay-gio/Sao%20r%E1%BB%93i%20c%E1%BA%ADu.mp3",
+    "title" : "Sao rồi cậu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-ay-bay-gio/S%E1%BA%A7u%20n%E1%BB%AF%20%C3%9At%20B%E1%BA%A1ch%20Lan.mp3",
+    "title" : "Sầu nữ Út Bạch Lan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-ay-bay-gio/Th%C6%B0%20S%C3%A0i%20G%C3%B2n.mp3",
+    "title" : "Thư Sài Gòn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-ay-bay-gio/Th%E1%BA%BF%20gi%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20%C4%91i%C3%AAn.mp3",
+    "title" : "Thế giới người điên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-ay-bay-gio/V%C3%B5%20L%C3%A3o%20N%C3%B4ng%2C%20t%C3%ACnh%20anh%20b%C3%A1n%20chi%E1%BA%BFu.mp3",
+    "title" : "Võ Lão Nông, tình anh bán chiếu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-ay-bay-gio/%C4%90i%20trong%20m%C3%B9a%20n%C6%B0%E1%BB%9Bc%20n%E1%BB%95i.mp3",
+    "title" : "Đi trong mùa nước nổi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-ay-bay-gio/%C4%90%E1%BA%A5t%20v%C3%A0%20m%C3%A1u.mp3",
+    "title" : "Đất và máu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-ay-bay-gio/%C4%90%E1%BB%93ng%20c%E1%BB%8F%20ch%C3%A1t.mp3",
+    "title" : "Đồng cỏ chát",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-ay-bay-gio/%C4%90%E1%BB%9Di%20ch%E1%BB%A3%20-%20Ch%E1%BB%A3%20%C4%91%E1%BB%9Di.mp3",
+    "title" : "Đời chợ - Chợ đời",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-ay-bay-gio/%C4%90%E1%BB%A9a%20con%20nu%C3%B4i.mp3",
+    "title" : "Đứa con nuôi",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
