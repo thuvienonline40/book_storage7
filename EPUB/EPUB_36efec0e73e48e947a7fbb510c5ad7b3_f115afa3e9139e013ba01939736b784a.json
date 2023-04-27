@@ -1,0 +1,106 @@
+{
+  "metadata" : {
+    "identifier" : "https://truyenvnhot.tv/han-ta-la-vua",
+    "title" : "Hắn Ta Là Vua",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 50,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "http://ngonphongcomics.com/wp-content/uploads/2017/11/SqNW9UG.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/-c2TfjedDQhQ/WpdgT9VeAaI/AAAAAAAAdNc/GG4hv7SbXCYeUFUVya4pF_R2pNJp6018QCLcBGAs/s0/1.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/-WQgYuW2rDvY/WpdgUM3S0LI/AAAAAAAAdNk/piwQnKTVo30fflqC5FAQ0Qsb5i3lIuJwACLcBGAs/s0/2.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/-cj2zaNK0JRk/WpdgVW4EtEI/AAAAAAAAdNo/Xwme5NUjYCo2o7SSLq5bAwBH2nvtMWzDwCLcBGAs/s0/4.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/-8mMoVi-DN0U/WpdgVT8X_0I/AAAAAAAAdNw/UfoO6CmFOQMbw5YfHNPdWyl9HeNTmbO6gCLcBGAs/s0/5.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/-Zl5SxXvDY_U/WpdgVcuxXNI/AAAAAAAAdNs/5AO266kuabYW9FtsxGNgly9BycKus-WywCLcBGAs/s0/7.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/-99OVGTuDsPY/WpdgWD6wl_I/AAAAAAAAdN0/l6iJUvv2HVkRmEW9yWKu5iPZwBCFNlnmQCLcBGAs/s0/8.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/-Q5RzVyp5nis/WpdgXLi7mgI/AAAAAAAAdN4/f2_KA7DUYd8TBi3VGejkS38DUMJWNkfOwCLcBGAs/s0/9.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/-HRZjL9wuijY/WpdgT1zo9eI/AAAAAAAAdNg/9zGGTnNirGw_5Jh3emZIhBy31kJfzC0ngCLcBGAs/s0/10.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

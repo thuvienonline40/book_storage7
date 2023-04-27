@@ -1,0 +1,190 @@
+{
+  "metadata" : {
+    "identifier" : "https://truyenvnhot.tv/han-ta-la-vua",
+    "title" : "Hắn Ta Là Vua",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 50,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "http://ngonphongcomics.com/wp-content/uploads/2017/05/SqNW9UG.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/-K_gneM32iO0/WZE7r7a8zwI/AAAAAAAAJfw/mOiMUZvdKmg1PhCxCwSaxgkys9jYJRofwCLcBGAs/s0/1.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/-MoV8txvHGAI/WZE7uJZ0EJI/AAAAAAAAJgY/JGOsu4JG5iEUemMP8ZedojNLYjjdLE2tgCLcBGAs/s0/2.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/-D_E3bCxCY0A/WZE7vEq4MHI/AAAAAAAAJgk/gSbSeVJneCYjySSvu0-OgFQX7Z_WbUT-ACLcBGAs/s0/3.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/-CTC7hmMpSvM/WZE7vNapS1I/AAAAAAAAJgo/lRJpMdayloA5N-KhJjdGGhSUDwGIefzbwCLcBGAs/s0/4.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/-8FeJXr7eAbQ/WZE7vqvbD1I/AAAAAAAAJgs/9NdXVYg3ZJctS_fM_XNPK9Cnjs2Tj29SgCLcBGAs/s0/5.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/-s5Ov4P7ye9w/WZE7v4GZjMI/AAAAAAAAJgw/IJL2cVbuWTMh2xJOUHwWOQBiokH2znFhwCLcBGAs/s0/6.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/-wN4GegHXUys/WZE7v_9Be2I/AAAAAAAAJg0/0kUU6TNYays1UBcgJk5kq9WFmYiXZZfRwCLcBGAs/s0/7.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/-fINPqpn6Uj4/WZE7wer2IUI/AAAAAAAAJg4/L-dQwqClenwuaNGX8DDnBD-YMadh6c-SgCLcBGAs/s0/8.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/-bE62xCCKJtI/WZE7wtTA2sI/AAAAAAAAJg8/mvdn2hQzL7wGlXkzDhUIcPHGzMU_fii8gCLcBGAs/s0/9.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/-6_l7plh5Kag/WZE7r6I6TaI/AAAAAAAAJf4/mcgs-tLZr_0ecGvu-szUZiRmkTPREd7-QCLcBGAs/s0/10.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/-aMi3pjiRo_Y/WZE7r_dB1vI/AAAAAAAAJf0/rkoMBGTaXbsCDDaZHoCpm9FXtEYLPdq0QCLcBGAs/s0/11.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/-HNEx0-bbO5E/WZE7sn3rU2I/AAAAAAAAJf8/0JMEdqR9z7MUAFJG4pGc7On73c9g6lCIQCLcBGAs/s0/12.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/-XYYnR2M9fbc/WZE7siqFBYI/AAAAAAAAJgE/CGAaJY3kf_IS63Z8cNWMOetRzswxe2QKgCLcBGAs/s0/13.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/-8_YMHbxivKs/WZE7si52UeI/AAAAAAAAJgA/-O8kOKFqp3Y9GZZ2HvWtz0aFHilntuo4QCLcBGAs/s0/14.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/-qN35UMIjyzI/WZE7tE2UqmI/AAAAAAAAJgI/fWoOlvFSkf0cqvJauHI5OgP2KhIIv_DvACLcBGAs/s0/15.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/-k7L9d06XnNU/WZE7taXJ2lI/AAAAAAAAJgM/Iej6CgurYNgSCxcsR0d6oO-eRzlC3mxSgCLcBGAs/s0/16.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/-gas7OgcjKX0/WZE7tRkMKaI/AAAAAAAAJgQ/-X806hYKIVkAV7YvvBjT7XT518njbglkACLcBGAs/s0/17.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/-MWgfx6s72jc/WZE7uIxZIRI/AAAAAAAAJgc/aQTHApjulv0JduJ73NJF_VbM_nld88JsgCLcBGAs/s0/18.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/-sYHcclH9MJA/WZE7uNpZbhI/AAAAAAAAJgU/6-g-6V-FxXQPBnN822Zh5WAt40fDCRTmQCLcBGAs/s0/19.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/-z2dRCBkxec8/WZE7u8xszzI/AAAAAAAAJgg/cw8hojxkopoyPXqPtqgDQ-ORrKwyNj6RgCLcBGAs/s0/20.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
